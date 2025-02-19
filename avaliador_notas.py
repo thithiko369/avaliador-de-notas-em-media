@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1xxuq6Tokhi3lObdDj-SXOujrKUh2kebZ
 """
 
-notas = [85,65,98,62,56,75,62,85,95,92,72,92,62,42,89,97,83,95,72]
+notas = [85,65,98,62,56,75,62,85,95,92,72,92,62,42,89]
 media = 70
 
 
